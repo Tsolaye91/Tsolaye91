@@ -7,7 +7,7 @@
 I'm passionate **Technology and Coding** with experience in **System Administration**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **mySQL and Python**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🔭 Working on: **✈ 🛬 **
 - 🌍 Languages: **Python, C++, JavaScript, English**
 - 📫 How to reach me: **Layemi91@gmail.com**
 - ⚡ Fun fact: **Hiking, Tennis🎾**
