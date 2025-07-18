@@ -4,12 +4,12 @@
 
 ## About Me 🚀
 
-I'm passionate **Technology, Coding, Data Science/Analytics** with experience in **System Administration**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm passionate **Technology, Coding,** with experience in **Data Science/Analytics, System Administration**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **mySQL, Python, & R**
+- 🌱 Currently learning: **Machine Language & AI Architecture**
 - 🔭 Working on: **✈ 🛬 **
-- 🌍 Languages: **Python, C++, JavaScript, English**
-- 📫 How to reach me: **Layemi91@gmail.com**
+- 🌍 Languages: **Python, SQL, R, C++, JavaScript, English**
+- 📫 How to reach me: **Layemi91@gmail.com**, **Nanna.OS@outlook.com**
 - ⚡ Fun fact: **Hiking, Tennis🎾**
 
 ## My Skills 🧠
@@ -32,7 +32,7 @@ I'm passionate **Technology, Coding, Data Science/Analytics** with experience in
 
 ## Get in Touch 📬
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/sholayemi-nanna)
 - **[Twitter]**(your_twitter_profile_link)
 
 
