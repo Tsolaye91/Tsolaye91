@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm passionate **Technology, Coding,** with experience in **Data Science/Analytics, System Administration**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm passionate about **Technology, Coding,** with experience in **Data Science/Analytics, System Administration**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Machine Language & AI Architecture**
 - 🔭 Working on: **✈ 🛬 **
@@ -29,11 +29,6 @@ I'm passionate **Technology, Coding,** with experience in **Data Science/Analyti
 
 ### [Project 2 Title](project_2_link)
 
-
-## Get in Touch 📬
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(https://www.linkedin.com/in/sholayemi-nanna)
-- **[Twitter]**(your_twitter_profile_link)
 
 
 
