@@ -9,7 +9,7 @@ I'm passionate about **Technology, Coding,** with experience in **Data Science/A
 - 🌱 Currently learning: **Machine Language & AI Architecture**
 - 🔭 Working on: **✈ 🛬 **
 - 🌍 Languages: **Python, SQL, R, C++, JavaScript, English**
-- 📫 How to reach me: **Layemi91@gmail.com**, **Nanna.OS@outlook.com**
+- 📫 How to reach me: **Layemi91@gmail.com**, **nsholayemi@outlook.com**
 - ⚡ Fun fact: **Hiking, Tennis🎾**
 
 ## My Skills 🧠
